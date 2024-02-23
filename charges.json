@@ -1,0 +1,133 @@
+{
+    "violations":{
+        "Minor/ASB":[
+            "Drunk and Disorderly",
+            "Section 35 of the Anti-Social Behaviour, Crime and Policing Act 2014",
+            "Common assault",
+            "Breach of the peace",
+            "Possession of Class A*(Only to be used in exceptional circumstances)",
+            "Possession of Class B",
+            "Possession of Class C"
+        ],
+        "Documentation":[
+            "Expired Driver`s license",
+            "Expired Registration",
+            "Expired Insurance",
+            "Expired Firearms license",
+            "Expired Fishing license",
+            "Invalid Driver`s license",
+            "Invalid Registration",
+            "Invalid Insurance",
+            "Invalid Firearms licence while in possession of a firearm"
+        ],
+        "Traffic Offence reports":[
+            "Speeding +15",
+            "Speeding +30",
+            "Speeding +45",
+            "Speeding +65",
+            "Drunk while in control of pedal cycle",
+            "Driving without due care",
+            "Dangerous driving",
+            "Failure to stop at a red light",
+            "Failure to stop at a stop sign",
+            "Distracted driving",
+            "Driving while using handheld device",
+            "Unlawful vehicle modification",
+            "Seat belt violation",
+            "Failure to indicate for lane change",
+            "Improper turn",
+            "Improper passing",
+            "Improper lane change",
+            "SECTION 59 WARNING"
+        ]
+    },
+    "charges":{
+        "Possession":[
+            "Possession of Class A",
+            "Possession of Class B",
+            "Possession of Class C",
+            "Possession With intent to supply (Class A)",
+            "Possession With intent to supply (Class B)",
+            "Possession With intent to supply (Class C)",
+            "Handling Stolen Goods",
+            "Possession of Section 5 Firearm",
+            "Possession of Counterfeit Money",
+            "Possession of flammable substances in public",
+            "Possession of Bladed artical",
+            "Possession of Offensive weapon",
+			"possession of an immitation firearm",
+            "Illegal Possession of Firearm(s)",
+            "Possession of ammunition",
+            "Possession of articles for going equipped"
+        ],
+        "Assault/Violence":[
+            "Common assault",
+            "Affray",
+            "Actual bodily Harm",
+            "Grievous bodily harm",
+            "Grievous bodily harm with intent",
+            "Attempted Murder",
+            "Murder",
+            "Robbery",
+            "Aggrevated Robbery",
+            "Robbery with bladed article",
+            "Robbery with adapted weapon",
+            "Using fireworks to endanger life",
+            "Using fireworks to cause criminal damage",
+            "Arson"
+        ],
+        "Theft/Robbery/Burglary":[
+            "Robbery",
+            "Aggrevated robbery",
+            "Robbery with bladed article",
+            "Robbery with adapted weapon",
+            "Burglary",
+            "Burglary with intent",
+            "Conspiracy to commit burglary",
+            "Theft less that £200",
+            "Theft over £200",
+            "Theft of motor vehicle",
+            "Theft of Credit/Debit Card"
+        ],
+        "Road/Traffic":[
+            "Speeding +15",
+            "Speeding +30",
+            "Speeding +45",
+            "Speeding +65",
+            "Driving without due care",
+            "Dangerous driving",
+            "Theft of motor vehicle",
+            "Driving with over the prescribed limit of alcohol",
+            "Driving with over the prescribed limit of a controlled substance",
+            "Failing to stop for a constable"
+        ],
+        "Misc":[
+            "Sexual assault",
+            "Rape",
+            "Prostitution",
+            "Vagrancy",
+			"Fraud",
+            "Controlling a dog in a dangerous manor",
+            "Rioting",
+            "Aggrevated Trespassing",
+            "Criminal damage",
+            "Obstruction",
+			"Impersonating a police officer",
+            "Obstruction of a drugs search",
+			"Active warrant",
+			"Proceeds of crime",
+            "Malicious Communications"
+        ],
+        "Code G":[
+            "Allow prompt and effective INVESTIGATION",
+            "Prevent DISAPPEARANCE of the suspect",
+            "Protect a CHILD or vulnerable person",
+            "Prevent OBSTRUCTION of the highway",
+            "Prevent PHYSICAL injury to self or others",
+            "Prevent a offence against PUBLIC decency",
+            "Prevent LOSS or damage to property",
+            "To Obtain ADDRESS not ascertained or provided",
+            "To Obtain NAME not ascertained"
+        ]
+    }
+}

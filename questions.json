@@ -1,0 +1,328 @@
+[
+	{
+		"title": "Normal questions",
+		"questions": [
+			{
+				"question": "Hello, How are you?",
+				"answers": ["Good, you?.", "Leave me alone", "Uh, Ok I guess.","What do you want?", "I dont answer questions.", "Just get this over with"]
+			},
+			{
+				"question": "I'm ****, do you have an ID on you?",
+				"answers": ["Why?", "I didnt do anything wrong, I know my rights!", "Here. *hands ID*", "Refuses to hand over ID"]
+			},
+			{
+				"question": "Not handing over your details is an offence",
+				"answers": ["I didnt do anything wrong, I know my rights!", "Here. *hands ID*"]
+			},
+			{
+				"question": "So, Whats going on today?",
+				"answers": ["Nothing, leave me alone.", "I didn't call you.","*remains silent*", "I dont answer questions", "I know my rights.", "Piss off, pig.", "Nothing, I'm just hanging out."]
+			},
+			{
+				"question": "Do you have any weapons on you?",
+				"answers": ["Just these guns right here. *flexes arms*", "*touches pockets nervously*","*remains silent*", "I dont answer questions", "I know my rights.", "No", "sweaty nervously*"]
+			},
+			{
+				"question": "Have you ever been arrested before?",
+				"answers": ["No, Never.", "Yeah, for some stupid shit.","No.", "I think so but it was a long time ago.", "No."]
+			},
+			{
+				"question": "Where are you heading to?",
+				"answers": ["I'm going home.", "Home", "That way.", "To work", "work", "Just to little ASDA", "tescos mate", "rather not say", "iT's AcTuAlLy NoNe oF YoUr BuSsInEsS", "look lets skip the small talk and get this over and done with", "Probably with you once you run my license", " I don't answer quesitons"]
+			}
+		]
+	},
+	{
+		"title": "Traffic Stop Questions",
+		"questions": [
+			{
+				"question": "Do you know why I pulled you over?",
+				"answers": ["Because I let you", "No, but Im sure you're going to tell me.", "No", "To extort money from me", "Because you can smell the donuts.", "Because I was going a little too fast."]
+			},
+			{
+				"question": "Do you know how fast you were going?",
+				"answers": ["Exactly the speed limit", "I wasn't going THAT fast", "I was doing like 5mph over, so what?", "Uh, like 45mph?.", "I don't know.", "No, But you're going to tell me.","Too busy looking at the road."]
+			},
+			{
+				"question": "Hello license and Insurance please",
+				"answers": ["Just a second", "Fine", "What did I do?", "I didn't do anything wrong.", "I don't have my License on me.", "Here you go."]
+			},
+			{
+				"question": "Are you aware your license is suspended/revoked?",
+				"answers": ["No way, thats a lie!", "It cant be.","You've gotta be kidding me.", "I just got it taken care of.", "No.", "Yeah but I have to drive to work?", "This is bullshit.", "*shows updated license which is valid", "Im just headed to the store."]
+			},
+			{
+				"question": "Do you know the insurance is invalid?",
+				"answers": ["I have temporary insurance*hands over paperwork*", "No Its not.", "Its not my car.", "Honestly I didn't, Im sorry", "Ugh", "You're a tyrant, you know that?.", "Do you not have anything better to do?"]
+			},
+			{
+				"question": "Is this your vehicle?",
+				"answers": ["Yes.", "Yup", "I dont answer questions", "Yeah, why?.", "Ugh", "No, Its my friends."]
+			},
+			{
+				"question": "Where did you get this vehicle?",
+				"answers": ["Its a rental..", "A friend lent it to me.", "I dont answer questions", "I dunno.", "Ugh", "Listen, dont ask questions you dont want to know the answer to"]
+			},
+			{
+				"question": "What are you doing driving like that?",
+				"answers": ["My wifes having a baby!", "I forgot my glasses!", "I dont answer questions", "The fuck you mean?", "I just bought the car, trying to have some fun.", "Why are YOU driving like that?"]
+			},
+			{
+				"question": "Why are you driving so fast?",
+				"answers": ["Because I felt like it.", "I got the need, the need for speed!", "Sorry man, I just watched TopGun.", "I wasn't going THAT fast.", "What authority do you have?", "Because I didn't see you."]
+			},
+			{
+				"question": "What do you keep reaching around for?",
+				"answers": ["Nothing, Im just trying to find my....", "No! I know my rights", "I dropped my phone.", "*looks around nervously*", "N n n nothing."]
+			},
+			{
+				"question": "Why are you acting so nervous?",
+				"answers": ["Police make me nervous, look at the damn news.", "Im not nervous.", "*remains silent*", "I dunno.", "Im not.", "I dont like yall, thats why.."]
+			},
+			{
+				"question": "You ran a stop sign,why?",
+				"answers": ["What stop sign?", "I didnt see a stop sign.", "I just rolled it, whats the big deal.","Theres no stop sign, what do you mean?", "I wasn't paying attention, Sorry."]
+			}
+		]
+	},
+	{
+		"title": "Drink drive/drug drive questions",
+		"questions": [
+			{
+				"question": "Have you had anything to drink today?",
+				"answers": ["I don't drink", "No.", "No", "Yeah, a while ago.", "Nope, dont drink.", "Nah dude, I dont drink."]
+			},			
+			{
+				"question": "Does Driver slur their words?",
+				"answers": ["Slightly", "No.", "No", "yes", "yes"]
+			},
+			{
+				"question": "Have you taken anything today?",
+				"answers": ["I took xanax", "how dare you ask someone like me that", "No.", "No", "Just Tramadol.", "No Sir.", "I smoked some weed waaay earlier."]
+			},
+			{
+				"question": "How long ago?",
+				"answers": ["Like a hour ago.", "Two hours ago", "No", "Last night.", "This morning.", "I don't know, a few hours ago."]
+			},
+			{
+				"question": "Do you have anything in the vehicle?",
+				"answers": ["No", "A little bit of weed.", "No, I mean.. Like.. No", "Its not my car, I dont know whats in it.", "Really? You dont have anything better to do?", "No"]
+			},
+			{
+				"question": "How much did you really drink tonight?",
+				"answers": [" slurs words, I oooont hed lik toooo drink", "I told you, I had like one..", "I dont answer questions", "*starts vomiting*", "*slurs words* I dont member"]
+			}
+		]
+	},
+	{
+		"title": "Orders",
+		"questions": [
+			{
+				"question": "Turn the vehicle off please",
+				"answers": ["Yes sir.", "No, why?.", "Why?", "There dude, Calm down.", "I know my rights.", "What did I do wrong", "This is bullshit"]
+			},
+			{
+				"question": "Roll down your window please",
+				"answers": ["rolls down window*", "*cracks window 1 inch", "What authority do you have?", "rolls down window.", "I know my rights.", "rolls down window", "its down far enough."]
+			},
+			{
+				"question": "Step out of your vehicle please",
+				"answers": ["What did I do?", "Ped Steps Out", "What did I do?", "This is abuse of power, bullshit." , "Why??"]
+			},
+			{
+				"question": "May I have your insurance please",
+				"answers": ["Im not giving you anything, I did nothing wrong.", "Yes sir. Just a moment.", ]
+			}
+		]
+		
+	},
+	{
+		"title": "observations",
+		"questions": [
+			{
+				"question": "Was Driver using their phone?",
+				"answers": ["Yes", "No", "No", "No", "No"]
+			},
+			{
+				"question": "I saw you using your phone, why?",
+				"answers": ["Was just looking at maps", "shows phone and see recent messaging", "Updating my twitter", "using as a mirror while applying my makeup", "No Comment", "I wasnt actually get your facts right and dont lie constable"]
+			},
+			{
+				"question": "wearing seatbelt",
+				"answers": ["Yes", "No", "yes", "yes", "No"]
+			},
+			{
+				"question": "Passenger(s)wearing seatbelt",
+				"answers": ["Yes", "No", "yes", "yes", "No"]
+			}
+		]
+		
+	},
+	{
+		"title": "commercial Vehicle Inspection",
+		"questions": [
+			{
+				"question": "Are the drivers logbook in order?",
+				"answers": ["Yes", "Yes.", "Yes.", "Yes", "Driver has no logs.", "Logs overtime.", "Yes."]
+			},
+			{
+				"question": "Does the driver have a CDL?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes." , "Yes", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Is the vehicle showing placards?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes.", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Is the vehicle overweight?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes.", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "If overweight,is there a premit?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes.", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Are the tires in safe condition?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes." , "Yes", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Are the brakes in safe condition?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes." , "Yes", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Are all lights operational?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes." , "Yes", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Are the belts/hoses in safe condition?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes." , "Yes", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Are all mudflaps present?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes." , "Yes", "No." , "Yes." , "Yes"]
+			},
+			{
+				"question": "Is the load/trailer properly secured?",
+				"answers": ["Yes.", "Yes.", "Yes.", "No." , "Yes." , "Yes", "No." , "Yes." , "Yes"]
+			}
+		]
+		
+	},
+	{
+		"title": "Grounds for search observations/quesitons",
+		"questions": [
+			{
+				"question": "Do you have anything on you?",
+				"answers": ["Nope *turns out pockets*", "No but I'm sure you're going to have a fun time checking", "Not on ME.", "Uh, Ok I guess.","No, I aint got shit bruh.", "No.", "No."]
+			},
+			{
+				"question": "Is there anything in the vehicle I should know about?",
+				"answers": ["I dont consent!", "I didnt do anything wrong, I know my rights!", "Its not my car, you cant search it!", "Theres nothing in there, I swear!", "Go ahead and check, you're going to anyway."]
+			},
+			{
+				"question": "Why did you run?",
+				"answers": ["Cos you were chasing me... duh", "I really dont want to tell you", "I had a bad experiance with a cop called tom once", "Just going for a jog, calm down", "No comment", "Get fucked pig"]
+			},
+			{
+				"question": "What are you doing in the area?",
+				"answers": ["I live here dickhead", "I live just round the corner", "visiting my mum, is that illegal?", "Going to big tescos", "No comment", "Get fucked pig"]
+			},
+			{
+				"question": "Do I smell anything in the car?",
+				"answers": ["Smells like cigarettes", "Negative", "Smells like raw marijuana", "Negative", "Smells freshly cleaned", "Possible hint of alcohol."]
+			},
+			{
+				"question": "Do I smell anything on the person?",
+				"answers": ["Smells like cigarettes", "Negative", "Smells like raw marijuana", "Negative", "Possible hint of alcohol."]
+			},
+			{
+				"question": "How is the person acting?",
+				"answers": ["annoyed", "nervous", "feeling pockets and wont give eye contact", "hard to keep focus", "aggressive"]
+			},
+			{
+				"question": "Any visable bulges in clothing?",
+				"answers": ["Pockets filled", "Bulge going down leg", "socks look full", "weird waistband bulge"]
+			},
+			{
+				"question": "What is the drivers demeanor",
+				"answers": ["Inconvenienced", "Nervous", "Scared", "Hostile Scared", "Mad and argumentative", "Twitchy and Nervous", "Calm and Normal"]
+			},
+			{
+				"question": "Do I see anything in plain sight?",
+				"answers": ["Nothing in sight", "Handle possibly of a knife", "Starbucks, Cigarettes, Backpack", "Laptop, cellphone, ballcap", "empty beer cans in backseat", "Bottle of whisky in center", "Nothing in sight"]
+			},
+			{	
+			    "question": "You're being seached under Section 1 of PACE",
+				"answers": ["Ok.", "oh fuck off not again, just had this 20 minutes ago!", "Ok *gets nervous and pulls away*.", "I dont consent.", "This is fucked, I know my rights!"]
+			},
+			{
+				"question": "You're being seached under Section 23 of MDA",
+				"answers": ["Nah fuck off no your not", "Just get it over and done with", "Ok *gets nervous and pulls away*.", "I dont consent.", "This is fucked, I know my rights!"]
+			}
+		]
+	},
+	{
+		"title": "After search questions",
+		"questions": [
+			{
+				"question": "Why do you have multiple phones?",
+				"answers": ["They are my personal and work phones", "Handing them back to my mate", "Holding them for someone else", "*silent and looks nervous*", "Found them on the floor, was going to hand them into a police station", "No Comment", "Whatever"]
+			},
+			{
+				"question": "credit card in another name?",
+				"answers": ["Its my mums*looks nervous*", "My Girlfriends", "That was my old name *looks nervous*", "No Comment" , "found it on the floor and was going to hand it in to the police" , "No Comment"]
+			},
+			{
+				"question": "Why do you have these items with the tags on?",
+				"answers": ["they forgot to take them off...*duh*", "alright you got me", "Just holding them for a mate", "No Comment" , "found it on the floor and was going to hand it in to the police" , "No Comment"]
+			},
+			{
+				"question": "why have fishing equipment if licence revoked?",
+				"answers": ["*hands over updated paperwork", "Oh fuck off its just fishing", "No Comment", "Hands over £100 as a bribe"]
+			},
+			{
+				"question": "whats with the tools in your car?",
+				"answers": ["For work *hands over work ID*", "*starts sweating*", "No Comment", "I'm going to need a lawyer before I say anything else" , "Just holding them for a mate", "Just moving them from my garage to my mates"]
+			},
+			{
+				"question": "Why do you have a car key for another vehicle?",
+				"answers": ["Work car", "Work truck", "Mothers car", "Dads car" , "Sisters car", "Brothers car" , "*looks nervous*" , "No Comment"]
+			},
+			{
+				"question": "whats with the large amount of cash in a bag?",
+				"answers": ["Whats the crime in having money?.", "*starts sweating*", "Looks nervous*.", "No comment" , "Officer look lets just not talk about that" , "Fuck off your not getting your hands on it", "Listen here constable I know my rights." , "*Spits at you*"]
+			},
+			{
+				"question": "What is this small bag of white powder?",
+				"answers": ["oh you know why are you asking?", "Are you dumb?", "coke", "No Comment" , "Bag of sugar mate" , "I like to keep a small bag of salt on me", "*looks nervous*"]
+			},
+			{
+				"question": "Why do you have pills in another persons name?",
+				"answers": ["Just coming back from the pharmacy for my family", "*starts sweating*", "No Comment", "Looks I didnt know it was illegal" , "Whats the harm in it?" , "fuck off"]
+			},
+			{
+				"question": "Why do you have a airsoft weapon on you/in car?",
+				"answers": ["Going to a airsoft match", "No Comment", "i'm sorry", "I use it for protection can I not do that?" , "its just a airsoft gun grow up" , "keep it on me so no one messes with me", "No comment"]
+			},
+			{
+				"question": "*check police warrant card found*",
+				"answers": ["*Fake Warrant card*", "Yes thats me please dont report me it will ruin my career", "what about it", "Listen here constable im a Inspector I will get you fired and make your life hell" , "*looks dissapointed*" , "*starts crying*", "No comment" , "Yeah buddy team blue, let me off this one yeah"]
+			}
+		]
+		
+	},
+	{
+		"title": "Drunk and Disordly Questions",
+		"questions": [
+			{
+				"question": "Why were you both fighting?",
+				"answers": ["He/she Started it", "We litrally wernt you fucking liar", "just friends having a punch up its no big deal", "I thought he/she was going to kill me", "No"]
+			},
+			{
+				"question": "How drunk is the person?",
+				"answers": ["*extremly*", "*quite a lot*", "*Visablly Drunk*", "*Kinda drunk*", "*Just a littly tipsy*", "*Sober*"]
+			}
+		]
+		
+	}
+]

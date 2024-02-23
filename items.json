@@ -1,0 +1,416 @@
+[
+	{
+		"name": "pen",
+		"isIllegal": false,
+		"multiplier": 10,
+		"itemLocation": 2
+	},
+	{
+		"name": "Starbucks cup",
+		"isIllegal": false,
+		"multiplier": 10,
+		"itemLocation": 0
+	},
+	{
+		"name": "Job center paperwork",
+		"isIllegal": false,
+		"multiplier": 10,
+		"itemLocation": 2
+	},
+	{
+		"name": "phone",
+		"isIllegal": false,
+		"multiplier": 20,
+		"itemLocation": 0
+	},
+	{
+		"name": "Multiple phones",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "credit card (correct name)",
+		"isIllegal": false,
+		"multiplier": 20,
+		"itemLocation": 1
+	},
+	{
+		"name": "credit card (other name)",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "Fishing equipment in boot",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 0
+	},
+	{
+		"name": "lighter",
+		"isIllegal": false,
+		"multiplier": 20,
+		"itemLocation": 1
+	},
+	{
+		"name": "Dufflebag full of tools crowbar,angle grinder",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation":0
+	},
+	{
+		"name": "car key (other vehicle)",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "car key (correct vehicle)",
+		"isIllegal": false,
+		"multiplier": 20,
+		"itemLocation": 1
+	},
+	{
+		"name": "Can of peper spray",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "Police ASP",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "Police ASP in dirver side door",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "spare change",
+		"isIllegal": false,
+		"multiplier": 20,
+		"itemLocation": 1
+	},
+	{
+		"name": "Large amount of cash hidden in a bag",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "notebook",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 0
+	},
+	{
+		"name": "Engery drink can",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 0
+	},
+	{
+		"name": "packet of mints",
+		"isIllegal": false,
+		"multiplier": 10,
+		"itemLocation": 0
+	},
+	{
+		"name": "sunglasses",
+		"isIllegal": false,
+		"multiplier": 10,
+		"itemLocation": 0
+	},
+	{
+		"name": "Iphone charger",
+		"isIllegal": false,
+		"multiplier": 10,
+		"itemLocation": 0
+	},
+	{
+		"name": "notebook of names and adresses of gov ministers",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "Sealed bag of counterfit money",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "Jerry can of fuel",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 0
+	},
+	{
+		"name": "Jerry can of fuel rigged with lighter and flamable towels",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "Baseball bat with spikes",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "small Fireworks in pocket",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 1
+	},
+	{
+		"name": "Firework rocket",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "marijuana",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "Multiple packages of meat with shop tags still attached value over £200",
+		"isIllegal": true,
+		"multiplier": 2,
+		"itemLocation": 0
+	},
+	{
+		"name": "Multiple packages of meat with shop tags still attached value under £200",
+		"isIllegal": true,
+		"multiplier": 3,
+		"itemLocation": 0
+	},
+	{
+		"name": "Multiple TV's with shop tags still attached",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "Multiple Designer bags with shop tags still attached",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "Multiple rounds of 9mm ammunition",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "Multiple rounds of 5.56mm ammunition",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "Kicthen knife covered in blood",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "Zombie knife in a sheath",
+		"isIllegal": true,
+		"multiplier": 3,
+		"itemLocation": 0
+	},
+	{
+		"name": "Used needle",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation": 1
+	},
+	{
+		"name": "Used needles",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation": 1
+	},
+	{
+		"name": "Black leather gloves in pocket",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation": 1
+	},
+	{
+		"name": "latex gloves",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation": 1
+	},
+	{
+		"name": "Small bag of white powder",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "Multiple bags of childrens clothing",
+		"isIllegal": false,
+		"multiplier": 4,
+		"itemLocation": 0
+	},
+	{
+		"name": "Multiple bags of white powder",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "Loaded glock 17 under driver seat",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "Crowbar under passenger seat",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "Lockpick set",
+		"isIllegal": true,
+		"multiplier": 2,
+		"itemLocation": 2
+	},
+	{
+		"name": "Class C drugs in other persons name",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "Airsoft weapon in bag locked and sealed",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "Airsoft SIG Sauer P226 in driver side door",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "A human Finger",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "watch",
+		"isIllegal": false,
+		"multiplier": 20,
+		"itemLocation": 1
+	},
+	{
+		"name": "Pre-rolled joint of marijuana",
+		"isIllegal": true,
+		"multiplier": 3,
+		"itemLocation": 2
+	},
+	{
+		"name": "Multiple Pre-rolled joints of marijuana",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "ID card",
+		"isIllegal": false,
+		"multiplier": 10,
+		"itemLocation": 1
+	},
+	{
+		"name": "Police Warrant Card",
+		"isIllegal": false,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "Insurance paperwork",
+		"isIllegal": false,
+		"multiplier": 10,
+		"itemLocation": 0
+	},
+	{
+		"name": "Proof of ownership paperwork for current vehicle",
+		"isIllegal": false,
+		"multiplier": 20,
+		"itemLocation": 0
+	},
+	{
+		"name": "kitchen knife",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "flick knife",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "Machete in door",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "wallet",
+		"isIllegal": false,
+		"multiplier": 10,
+		"itemLocation": 2
+	},
+	{
+		"name": "wallet with ID of another person",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 2
+	},
+	{
+		"name": "headphones",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 2
+	},
+	{
+		"name": "airpods",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 2
+	},
+	{
+		"name": "bag of clothes still with security tag attached",
+		"isIllegal": true,
+		"multiplier": 1,
+		"itemLocation": 0
+	},
+	{
+		"name": "keys",
+		"isIllegal": false,
+		"multiplier": 5,
+		"itemLocation": 2
+	},
+	{
+		"name": "knife",
+		"isIllegal": true,
+		"multiplier": 2,
+		"itemLocation": 2
+	}
+]
